@@ -1,10 +1,10 @@
 # Turn Your Old PSP-2000/3000 into a Nightstand Clock/Calendar
 
+![thumbnail](https://github.com/itskme/PSP-Clock-AiO/assets/160423464/023c9488-768e-46bd-a11d-ebd835749304)
+
 ---
 
 The PSP is still a great console despite having been released almost two decades ago. So, when you're not using it, why should it be collecting dust?
-
-
 
 Introduce the PSP Clock. Originally an exclusive feature to the PSP GO, some crafty hackers ported the feature to the ordinary PSP about a decade ago. Combined with a custom 3D-Printed stand, it is the perfect way to keep the PSP alive and well. 
 
@@ -75,13 +75,3 @@ From there, press both shoulder buttons at once to toggle the calendar.
 # 3D printable stand
 
 I designed this stand to hold the PSP while in clock mode. Feel free to edit the .IPT file to make changes of your own, or just print the .STL.
-
-
-
-
-
-
-
-
-
-
